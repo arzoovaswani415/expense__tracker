@@ -21,7 +21,13 @@
 	15. Cron job scheduler for mailing monthly/weekly reports to user(add proper summary in mail)
 	16. conversion of currency(optional)
 	17. Icon image for categories
-	
+
+//when we make frontend outside the this parent folder and move it inside
+//remove .git folder from the internal git folder
+// run this command --> git rm --cached
+//then u do git status , git add, git push all these from terminal only
+
+
 	
 	
 	
